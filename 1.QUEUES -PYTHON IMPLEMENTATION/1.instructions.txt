@@ -1,0 +1,4 @@
+1.Within queue.py in the pane to the right, create a Queue class with an __init__() method. Inside the method:
+
+set an instance property head equal to None
+set another instance property tail equal to None
